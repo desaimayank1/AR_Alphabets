@@ -1,0 +1,11 @@
+Model Information:
+* title:	Unicorn in a glass ball
+* source:	https://sketchfab.com/3d-models/unicorn-in-a-glass-ball-6260753da3a744baa41b8160264bedd6
+* author:	Paulina (https://sketchfab.com/Byakko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Unicorn in a glass ball" (https://sketchfab.com/3d-models/unicorn-in-a-glass-ball-6260753da3a744baa41b8160264bedd6) by Paulina (https://sketchfab.com/Byakko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

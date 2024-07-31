@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stuffed Baby Giraffe
+* source:	https://sketchfab.com/3d-models/stuffed-baby-giraffe-8fb84d65e39f4dadbd8de3a84f00e6e5
+* author:	Andrei Alexandrescu (https://sketchfab.com/Andrei_Alexandrescu)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stuffed Baby Giraffe" (https://sketchfab.com/3d-models/stuffed-baby-giraffe-8fb84d65e39f4dadbd8de3a84f00e6e5) by Andrei Alexandrescu (https://sketchfab.com/Andrei_Alexandrescu) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

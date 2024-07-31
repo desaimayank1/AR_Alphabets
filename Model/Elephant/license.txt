@@ -1,0 +1,11 @@
+Model Information:
+* title:	African Elephant
+* source:	https://sketchfab.com/3d-models/african-elephant-facb060916534e7eae8e6a5a8056185f
+* author:	Joseph.AD (https://sketchfab.com/Joseph.AD)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "African Elephant" (https://sketchfab.com/3d-models/african-elephant-facb060916534e7eae8e6a5a8056185f) by Joseph.AD (https://sketchfab.com/Joseph.AD) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

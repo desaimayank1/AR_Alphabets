@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cartoon panda holding marshmalow
+* source:	https://sketchfab.com/3d-models/cartoon-panda-holding-marshmalow-0aed356fa2a449d0bb9a742a8184cd78
+* author:	bayusulistyos (https://sketchfab.com/bayusulistyos)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cartoon panda holding marshmalow" (https://sketchfab.com/3d-models/cartoon-panda-holding-marshmalow-0aed356fa2a449d0bb9a742a8184cd78) by bayusulistyos (https://sketchfab.com/bayusulistyos) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

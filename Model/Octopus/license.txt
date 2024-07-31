@@ -1,0 +1,11 @@
+Model Information:
+* title:	Octopus
+* source:	https://sketchfab.com/3d-models/octopus-6c77dfc55d34470991f77ba78fc2bdf4
+* author:	Lukáš Marek (https://sketchfab.com/lukas_marek)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Octopus" (https://sketchfab.com/3d-models/octopus-6c77dfc55d34470991f77ba78fc2bdf4) by Lukáš Marek (https://sketchfab.com/lukas_marek) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

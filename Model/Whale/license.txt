@@ -1,0 +1,11 @@
+Model Information:
+* title:	Livyatan (Oceanic testing 2 V1)
+* source:	https://sketchfab.com/3d-models/livyatan-oceanic-testing-2-v1-051eccfc0b1548aa897177cc0ca58fc8
+* author:	Major (https://sketchfab.com/majorgalah)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Livyatan (Oceanic testing 2 V1)" (https://sketchfab.com/3d-models/livyatan-oceanic-testing-2-v1-051eccfc0b1548aa897177cc0ca58fc8) by Major (https://sketchfab.com/majorgalah) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
